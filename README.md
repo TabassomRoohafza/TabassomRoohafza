@@ -1,8 +1,9 @@
-
+ 
 
 <h1 align="center">Hi 👋, I'm Tabassom Roohafza</h1> 
-<h3 align="center">A passionate frontend developer from India</h3> 
+<h3 align="center">An Iranian passionate frontend developer from Sweden</h3> 
 
+<img align="right" width="400" src="https://github.com/TabassomRoohafza/TabassomRoohafza/blob/main/1_qdAW1TjCN57h1lbuuzvchg.gif"/> 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabassomroohafza&label=Profile%20views&color=0e75b6&style=flat" alt="tabassomroohafza" /> </p> 
  
